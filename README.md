@@ -12,7 +12,7 @@ lool no where else we got you covered. <b> come one come all. </b>
 To get a local copy of the site:
 `git clone https://github.com/edunush/PizzaHome
 `Extract` the cloned file.
-`cd` to Delani-Studio folder.
+`cd` to PizzaHome folder.
 *Launch* `index.html` file.
 ## Technologies used.
 * HTML
